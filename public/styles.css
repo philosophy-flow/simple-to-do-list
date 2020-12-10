@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.box {
+  width: 300px;
+  margin: 10px auto;
+  padding: 10px;
+  background-color: beige;
+}
+
+.item {
+  padding: 10px;
+  text-align: left;
+}
+
+p {
+  display: inline;
+  word-break: break-all;
+}
+
+footer {
+  margin: 10px;
+  font-size: 0.75rem;
+}
